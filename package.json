@@ -1,5 +1,5 @@
 {
-  "name": "webpack-dev-boilerplate",
+  "name": "react-redux-demo",
   "version": "1.0.2",
   "description": "boilerplate",
   "main": "app/index.jsx",
